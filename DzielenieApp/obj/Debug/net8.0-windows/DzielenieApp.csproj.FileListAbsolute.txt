@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\lab2.1\DzielenieApp\bin\Debug\net8.0-windows\DzielenieApp.exe
+C:\Users\User\Desktop\lab2.1\DzielenieApp\bin\Debug\net8.0-windows\DzielenieApp.deps.json
+C:\Users\User\Desktop\lab2.1\DzielenieApp\bin\Debug\net8.0-windows\DzielenieApp.runtimeconfig.json
+C:\Users\User\Desktop\lab2.1\DzielenieApp\bin\Debug\net8.0-windows\DzielenieApp.dll
+C:\Users\User\Desktop\lab2.1\DzielenieApp\bin\Debug\net8.0-windows\DzielenieApp.pdb
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\DzielenieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\DzielenieApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\DzielenieApp.AssemblyInfo.cs
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\DzielenieApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\DzielenieApp.dll
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\refint\DzielenieApp.dll
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\DzielenieApp.pdb
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\DzielenieApp.genruntimeconfig.cache
+C:\Users\User\Desktop\lab2.1\DzielenieApp\obj\Debug\net8.0-windows\ref\DzielenieApp.dll
